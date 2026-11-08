@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# Keep private survey data out of GitHub
+data/raw/*
+data/processed/*
+
+# Keep generated outputs out of GitHub
+outputs/graphs/*
+outputs/reports/*
