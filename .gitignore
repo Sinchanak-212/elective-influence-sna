@@ -12,3 +12,6 @@ data/processed/*
 # Keep generated outputs out of GitHub
 outputs/graphs/*
 outputs/reports/*
+
+# Runtime planner data (pseudonymous profiles, not for version control)
+data/planner/
